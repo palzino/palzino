@@ -5,6 +5,8 @@ Published author, former research assistant and seeking graduate Cloud or DevOps
 
 ## Publications
 
+- **Gill PS**, Devey J, M Idrissi, H Mahmoud, S Parvez, R Bhana. Developing a Smart Wireless Sensor Network for Waste Management in Cities. Advances on Intelligent Computing and Data Science II. 2024; pp 129–140. [https://doi.org/10.1007/978-3-031-91351-8_12](https://doi.org/10.1007/978-3-031-91351-8_12)
+
 - **Devey J**, Gill PS, Allen G, Shahra E, Idrissi M. Network-Centric Formation Control and Ad Hoc Communication with Localisation Analysis in Multi-UAV Systems. Machines. 2024; 12(8):550. [https://doi.org/10.3390/machines12080550](https://doi.org/10.3390/machines12080550)
 
 ## Open Source Projects
